@@ -1,5 +1,5 @@
-<h1>Hi, I'm Dovydas.<br> Front End Web Developer.</h1>
-<h1>Find that name unsual and difficult to call? Well, then cut the end and make it just Dovy!</h1> 👋
+<h2>Hi, I'm Dovydas.<br> Front End Web Developer.</h2>
+<h6>Find that name unsual and difficult to call? Well, then cut the end and make it just Dovy!</h6> 👋
 
 
 
