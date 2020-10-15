@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1>Hi, I'm Dovydas.<br> Front End Web Developer.</h1>
+<h1>Find that name unsual and difficult to call? Well, then cut the end and make it just Dovy!</h1> 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justdovy&show_icons=true&theme=tokyonight)
 
 
 
