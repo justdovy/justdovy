@@ -1,7 +1,12 @@
-<!--
-<h2>Hi 👋🏻 I'm Dovydas.<br> Front End Web Developer.</h2>
+
+<h2>Hi 👋🏻 I'm Dovydas.<br>Junior Front End Web Developer.</h2>
 <h6>Find that name unsual and difficult to call? Well, then cut the end and make it just Dovy!</h6> 
 
+<h4>Currently:</h4>
+Studying BSc (Hons) Computer Science.<br/>
+Improving front-end web development skills.<br/>
+Working on website development project for online racing community.
+<!--
 ![BANNER](https://github.com/justdovy/justdovy/blob/main/Artboard%201.png)
 -->
 
